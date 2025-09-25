@@ -72,4 +72,6 @@ auth.json
 # 打包相关
 scripts/
 release_*/
-dist_*/
+# 允许简化版的可执行文件
+!codex-gui-simple/dist_simple/
+!codex-gui-simple/dist_simple/*.exe
