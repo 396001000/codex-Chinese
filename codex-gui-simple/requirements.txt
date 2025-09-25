@@ -1,0 +1,15 @@
+# Claude Code 汉化工具依赖
+# Python 3.7+ 内置模块，无需额外安装：
+# - tkinter (GUI界面)
+# - subprocess (系统命令)
+# - threading (多线程)
+# - json (JSON处理)
+# - os (系统操作)
+# - pathlib (路径处理)
+# - re (正则表达式)
+# - webbrowser (打开网页)
+
+# 如果需要打包成 exe，可以安装：
+# pyinstaller>=5.0.0
+
+# 注意：本应用仅使用 Python 标准库，无需安装额外依赖
